@@ -1,0 +1,8 @@
+# misc
+.DS_Store
+.settings
+.classpath
+.project
+/target
+/bin
+*application.yml
